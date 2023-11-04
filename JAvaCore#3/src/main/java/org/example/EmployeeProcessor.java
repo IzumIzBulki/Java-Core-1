@@ -1,4 +1,4 @@
-package com.zergatstage.javacore.seminar03;
+package org.example;
 
 import java.util.List;
 import java.util.Objects;
